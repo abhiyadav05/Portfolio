@@ -16,11 +16,7 @@ function myFunction() {
     document.getElementById("navbar").style.transform = "translateY(-400px)";
   }
 
-  function navbarRemove(){
-    document.getElementById("navbar").style.display = "inline";
-    myFunction();
-    myFunctionTwo();
-  }
+ 
 
 
 
